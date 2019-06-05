@@ -1,0 +1,1 @@
+Repositório para estudos sobre design patterns com PHP.
