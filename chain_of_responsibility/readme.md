@@ -2,6 +2,8 @@
 
 Cenário: Impostos diferentes que precisam ser calculados em cima do valor de um orçamento.
 
+**Cenário do Chain of responsability:**
+
 Agora todo orçamento tem diferentes itens e todo orçamento deve receber um desconto e existem varias regras de desconto, mas somente um desconto pode ser aplicado no orçamento, não é permitido aplicar mais de um desconto em um orçamento.
 
 As regras são: 
