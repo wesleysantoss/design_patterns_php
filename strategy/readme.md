@@ -1,5 +1,6 @@
 **Strategy**
-Cenário: Orçamentos que precisam ser calculados diferentes tipo de imposto.
+
+Cenário: Impostos diferentes que precisam ser calculados em cima do valor de um orçamento.
 
 Links: 
 - https://blog.caelum.com.br/entendendo-o-pattern-strategy-em-php/
